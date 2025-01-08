@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Mohamed Jalloh**, a passionate Sierra Leonean 👨‍💻 exploring the realms of **Electrical and Electronic Engineering** ⚡ and chasing my dream to become an **Aspiring Software Engineer**. 
+I'm **Mohamed Lamin Walon-Jalloh**, a passionate Sierra Leonean 👨‍💻 exploring the realms of **Electrical and Electronic Engineering** ⚡ and chasing my dream to become an **Aspiring Software Engineer**. 
 
 ---
 
@@ -10,6 +10,7 @@ I'm **Mohamed Jalloh**, a passionate Sierra Leonean 👨‍💻 exploring the re
 - 💻 Love **programming** and solving challenges
 - 💡 Passionate about **learning** and **helping others**
 - 🕌 **Muslimah** who loves to collaborate with others
+- 🤖 **AI/ML** enthusiast and currently exploring it.
 
 ---
 
