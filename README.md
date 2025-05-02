@@ -47,6 +47,7 @@ Feel free to reach out if you share similar interests or want to collaborate:
 - 📧 Email: [mohamedlaminwalonjalloh@gmail.com](mailto:mohamedlaminwalonjalloh@gmail.com)
 - 📸 Instagram: [mlwjalloh](https://instagram.com/mlwjalloh)
 - 🐦 Twitter: [@walon_lamin](https://twitter.com/walon_lamin)
+- - 💼 LinkedIn: [Mohamed Lamin Walon-Jalloh](https://www.linkedin.com/in/mohamed-lamin-walon-jalloh-6563b8243/)
 
 ---
 
